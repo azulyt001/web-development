@@ -1,3 +1,3 @@
-This is my first Git Repository.    
+<i><b>This is my first Git Repository.</b> </i>    
 <br>
-Author - Owais Solanki
+<i><b>Author - Owais Solanki</b> </i> 
